@@ -1,0 +1,9 @@
+Chicago;Austin;0
+Chicago;Washington D.C;594.19
+Chicago;Milwaukee;81.52
+Chicago;;99
+Chicago;Detroit;ttt
+Chicago;;
+;;
+Chicago;Richmond;-9
+Chicago;San Diego;1733.5
