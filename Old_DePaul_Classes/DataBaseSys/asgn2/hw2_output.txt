@@ -1,0 +1,87 @@
+
+Table LISTING dropped.
+
+
+Table AGENT dropped.
+
+
+Table BUILDING dropped.
+
+
+Table AGENT created.
+
+
+Table BUILDING created.
+
+
+Table LISTING created.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+1 row inserted.
+
+
+AID LAST                 FIRST                PHONE     
+--- -------------------- -------------------- ----------
+741 Murray               Logan                8155271977
+852 Wise                 Daniel               8476398595
+963 McGurn               Jim                  2245161964
+
+
+BID  ADDRESS                   ZIP   ASKINGPRICE
+---- ------------------------- ----- -----------
+1452 421 Bristol Way           60013      450000
+2563 355 Motors Ave            60010      350750
+4785 1201 Glenview Court       60014      760500
+5896 655 Harvest Dr            60013      999999
+
+
+AGE BUIL STARTINGD ENDINGDAT
+--- ---- --------- ---------
+741 1452 02-JAN-15 15-AUG-15
+852 2563 22-FEB-15 16-DEC-15
+963 4785 24-NOV-16 04-MAY-17
+741 5896 13-SEP-17 20-APR-18
+852 1452 22-AUG-15 16-MAR-16
+963 2563 02-JAN-16 10-DEC-16
+
+6 rows selected. 
+
+
+Commit complete.
+

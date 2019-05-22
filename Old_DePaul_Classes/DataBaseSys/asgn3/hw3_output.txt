@@ -1,0 +1,148 @@
+
+NAME                                    
+----------------------------------------
+Californian Comfort
+Classic Home
+Coastal Casuals
+East Coast Furnishings
+Finer Home Furniture
+Furniture-palooza
+Furthur Furnishings
+Home Design Classics
+Home Impressions
+M and H Casual Furniture and Stuff
+Mannys Home Style
+Midwest Antique Furnishings
+Mountain Forest Home
+Mountain Furniture
+Seminole Interiors
+Unpainted Arizona
+Vintage Furniture
+
+17 rows selected. 
+
+
+CITY                 ST ZIP  
+-------------------- -- -----
+Irvine               CA 92612
+Sedona               AZ 87507
+San Francisco        CA 94121
+Miami                FL 33101
+Fort Myers           FL 33901
+Seminole             FL 34646
+
+6 rows selected. 
+
+
+MATERIAL              PRODUCTID      PRICE
+-------------------- ---------- ----------
+Oak                         105        300
+Oak                         107        425
+Pine                        106        375
+
+
+NAME                                     ZIP  
+---------------------------------------- -----
+Mannys Home Style                        12550
+Finer Home Furniture                     06167
+Mountain Forest Home                     97045
+Classic Home                             12209
+Home Impressions                         33901
+Home Design Classics                     06070
+
+6 rows selected. 
+
+
+ST      COUNT
+-- ----------
+AZ          1
+CA          2
+CO          1
+CT          2
+FL          3
+MI          2
+NJ          1
+NY          3
+OR          1
+WA          1
+
+10 rows selected. 
+
+
+ORDERDATE MAX(ORDERID)
+--------- ------------
+15-JAN-19         1015
+30-SEP-18         1011
+01-AUG-18         1009
+10-MAR-18         1007
+03-FEB-18         1006
+23-JAN-18         1017
+20-JAN-18         1016
+15-JAN-18         1004
+30-DEC-17         1003
+
+9 rows selected. 
+
+
+     PRICE DESCRIPTION                   
+---------- ------------------------------
+       550 Entertainment Center          
+       500 Dining Table                  
+       500 Dining Table                  
+       475 Dining Table                  
+       425 Wardrobe                      
+
+
+CUSTOMERID MIN(ORDER
+---------- ---------
+         1 15-JAN-19
+         2 30-SEP-18
+         5 30-DEC-17
+         6 03-FEB-18
+         7 20-JAN-18
+        10 30-DEC-17
+        12 30-DEC-17
+        13 15-JAN-18
+        20 23-JAN-18
+
+9 rows selected. 
+
+
+   ORDERID TOTAL_ITEMS
+---------- -----------
+      1007           9
+      1010           9
+      1006           6
+      1011           5
+      1001           5
+      1003           4
+      1005           4
+      1013           3
+      1002           3
+      1004           3
+      1017           2
+
+   ORDERID TOTAL_ITEMS
+---------- -----------
+      1008           2
+      1015           1
+      1016           1
+      1014           1
+      1012           1
+
+16 rows selected. 
+
+
+ PRODUCTID UNIQUE_ORDERS
+---------- -------------
+       209             1
+       101             1
+       107             1
+       208             3
+       106             4
+       102             4
+       103             5
+       104             6
+
+8 rows selected. 
+
