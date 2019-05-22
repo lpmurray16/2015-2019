@@ -1,0 +1,6 @@
+Grace Hopper 81.5 90.0 65.5 79.9 93.2
+Alan Kay 75.5 81.5 70 90 98.2
+John Backus 99.0 74 100 87.7 99.9
+Sergey Brin 62 100 88.5 79.7 97.3
+Dennis Ritchie 97 98 100 100 99.9
+Brian Kernighan 100 99 100 89 99
