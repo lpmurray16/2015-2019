@@ -1,0 +1,3 @@
+﻿  EnhancedMilesPerGallon.cpp
+c:\users\logan murray\documents\visual studio 2015\projects\ch 3 activity 4\enhancedmilespergallon.cpp(42): warning C4244: '=': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ch 3 Activity 4.vcxproj -> c:\users\logan murray\documents\visual studio 2015\Projects\Ch 3 Activity 4\Debug\Ch 3 Activity 4.exe
